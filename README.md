@@ -1,4 +1,4 @@
-nto + Integrations
+Django + Integrations
 =========
 
 This Repo has Django installer with integrations, you can find the Djangon installers (tarballs) undther [tarballs] directory.
